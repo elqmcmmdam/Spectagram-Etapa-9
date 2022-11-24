@@ -1,0 +1,6 @@
+return () {
+    render (
+        <TouchableOpacity>
+        </TouchableOpacity>
+    )
+}
